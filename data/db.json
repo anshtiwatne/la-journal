@@ -1,0 +1,86 @@
+{
+    "people": [
+        {
+            "name": "Ansh Tiwatne",
+            "avatar": "https://lh3.googleusercontent.com/ogw/AF2bZyhRuNR4to6_cQhZsG8F0629SDcn4f7I5KrIZMZ7RA0-_Jw=s64-c-mo",
+            "age": 18,
+            "location": "la",
+            "role": "student",
+            "joined": "2024-06-26"
+        },
+        {
+            "name": "John Doe",
+            "avatar": "https://randomuser.me/api/portraits/thumb/men/1.jpg",
+            "age": 25,
+            "location": "center",
+            "role": "student",
+            "joined": "2025-04-19"
+        },
+        {
+            "name": "Jane Smith",
+            "avatar": "https://randomuser.me/api/portraits/thumb/women/1.jpg",
+            "age": 22,
+            "location": "center",
+            "role": "student",
+            "joined": "2025-02-14"
+        },
+        {
+            "name": "Alice Johnson",
+            "avatar": "https://randomuser.me/api/portraits/thumb/women/2.jpg",
+            "age": 30,
+            "location": "la",
+            "role": "student",
+            "joined": "2025-03-10"
+        },
+        {
+            "name": "Bob Brown",
+            "avatar": "https://randomuser.me/api/portraits/thumb/men/2.jpg",
+            "age": 28,
+            "location": "la",
+            "role": "student",
+            "joined": "2025-01-05"
+        },
+        {
+            "name": "Charlie Davis",
+            "avatar": "https://randomuser.me/api/portraits/thumb/men/3.jpg",
+            "age": 35,
+            "location": "center",
+            "role": "teacher",
+            "joined": "2025-05-12"
+        },
+        {
+            "name": "Emily White",
+            "avatar": "https://randomuser.me/api/portraits/thumb/women/3.jpg",
+            "age": 27,
+            "location": "la",
+            "role": "student",
+            "joined": "2025-06-01"
+        },
+        {
+            "name": "Frank Green",
+            "avatar": "https://randomuser.me/api/portraits/thumb/men/4.jpg",
+            "age": 40,
+            "location": "center",
+            "role": "mentor",
+            "joined": "2025-07-20"
+        },
+        {
+            "name": "Grace Lee",
+            "avatar": "https://randomuser.me/api/portraits/thumb/women/4.jpg",
+            "age": 29,
+            "location": "la",
+            "role": "student",
+            "joined": "2025-08-15"
+        }
+    ],
+    "projects" : [
+        {
+            "title": "Making Chess Coins",
+            "url": "https://www.livingacademy.org/2025/04/04/chess-coin-project-at-living-academy/"
+        },
+        {
+            "title": "The Mobile Pantry Project",
+            "url": "https://www.livingacademy.org/2025/04/04/the-mobile-pantry-project/"
+        }
+    ]
+}
