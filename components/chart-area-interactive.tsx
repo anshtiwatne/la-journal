@@ -100,9 +100,7 @@ export function ChartAreaInteractive() {
 						variant="outline"
 						className="hidden *:data-[slot=toggle-group-item]:!px-4 @[767px]/card:flex"
 					>
-						<ToggleGroupItem value="all">
-							All Time
-						</ToggleGroupItem>
+						<ToggleGroupItem value="all">All Time</ToggleGroupItem>
 						<ToggleGroupItem value="90d">
 							Last 3 months
 						</ToggleGroupItem>

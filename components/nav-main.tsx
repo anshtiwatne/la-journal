@@ -61,7 +61,7 @@ export function NavMain({
 											<SidebarMenuSubButton asChild>
 												<a href={subItem.url}>
 													{subItem.avatar && (
-														<Avatar className='h-6 w-6'>
+														<Avatar className="h-6 w-6">
 															<AvatarImage
 																src={
 																	subItem.avatar
