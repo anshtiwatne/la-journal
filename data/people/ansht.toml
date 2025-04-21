@@ -1,4 +1,20 @@
 [profile]
-first_name = "Ansh"
-last_name = "Tiwatne"
-age = "18"
+name = "Ansh Tiwatne"
+birth_date = "2006-12-25"
+grade = 12
+community = "Living Academy"
+date_joined = "2022-01-01"
+hobbies = ["Reading", "Writing", "Gaming"]
+projects = [
+    {team: "Project X", role: "Lead Developer", date_joined: "2022-01-01"},
+    {team: "Project Y", role: "Designer", date_joined: "2022-06-01"}
+]
+wish_list = [
+    {item: "Woodworking tools", reason: "To learn woodworking"},
+    {item: "New laptop", reason: "For better performance in coding"}
+]
+
+[about]
+# Hello my name is Ansh
+# I am involved in project x and project y
+# I wish to learn woodworking
